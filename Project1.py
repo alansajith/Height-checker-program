@@ -1,4 +1,3 @@
-# height checker program
 print("hello world")
 height = int(input("what is your height:"))
 if height > 120:
